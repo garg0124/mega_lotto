@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = %q{A rubygem to generate lottery drawings.}
   spec.description = %q{MegaLotto is a gem which draws an array of 5 random integers between 0 to 60(excluding).}
-  spec.homepage = ""
+  spec.homepage = "https://github.com/garg0124/mega_lotto"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
